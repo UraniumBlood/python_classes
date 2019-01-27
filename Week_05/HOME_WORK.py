@@ -25,7 +25,7 @@
 
 y = int(input("enter"))
 list_prime=[2,3,5,7,11,13,17,19]
-count = 0
+count = 0g
 bool = 0
 while count<=7:
     n = int(list_prime[int(count)])
