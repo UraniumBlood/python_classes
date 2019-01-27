@@ -19,10 +19,9 @@
 
 num_list = [1, 2, 50, 40, 2.5]
 for number in num_list:
-    if number%2:
+    if number%2 == 0:
         print("yes")
-
-else:
-    print("no")
+    else:
+        print("no")
 
 
