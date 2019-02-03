@@ -55,7 +55,44 @@
 #
 # i = n
 # while(i>1):
-#     fact fac
+#     fact
+
+# NO. 4
+# list_prime = []
+# a = int(input("Enter 1 number"))
+# b = int(input("Enter 2nd number"))
+#
+# count = a
+# while(count <= b):
+#
+#     print(count)
+#     if count%2 == 0:
+#         print("no prime")
+#     elif count%3 == 0:
+#         print("no prime")
+#     elif count%5 == 0:
+#         print("No prime")
+#     elif count%7 == 0:
+#         print("No prime")
+#     else:
+#         print("Prime")
+#         list_prime.append(count)
+#
+#     count = count + 1
+# print(list_prime)
 
 
+# NO. 5
 
+# n = int(input("Number"))
+# fact = 1
+# count = 1
+# while(count<=n):
+#         # print("Count is:", count)
+#         v = count
+#         fact = fact*v
+#         count = count + 1
+#         # print("fact is now:", fact)
+# print("The factorial value is:", fact)
+
+#NO.6
