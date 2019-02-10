@@ -6,28 +6,11 @@
 
 a = "hello"
 b = "python"
-#
-# #print(a + b)
+print(a + b)
 #
 # print(b*5)
 
-# list_sportstars = ["LeBron James", "James Harden", "Kyrie Irving"]
-# if "LeBron James" in list_sportstars:
-#     print("LeBron killed Steph Curry")
-#
-# if "Kyrie Irving" in list_sportstars:
-#     print("Kyrie Irving is LeBron's sidekick")
-#
-# else:
-#     print("Kyrie killed Steph Curry")
-
-# game_list = ["Clash of Clans", "NBA 2k19", "NBA mobile live", "COC"]
-# if "COC" not in game_list:
-#     print("PUBG sucks")
-#
-# else:
-#     print("NBA IS THE BEST")
-
+# lis
 # s = "I am a LeBron James"
 # print(s)
 # print(s.lower())
